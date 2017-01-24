@@ -2,6 +2,7 @@
 
 ## Privacy Policy
 Last updated: January 24th 2014
+
 Softlord ("us", "we", or "our") operates Rocket Text SMS Accelerator (the
 "App"). This page informs you of our policies regarding the collection, use and disclosure of
 Personal Information we receive from users of the App.
